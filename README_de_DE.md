@@ -104,7 +104,7 @@ Hier sind einige Links:
 * [r/Pepecoin Reddit](https://www.reddit.com/r/pepecoin/) Pepecoin Reddit
 * [Discord](https://pepecoin.org/discord) Offizieller Pepecoin Discord Server
 * [Telegram](https://t.me/PepecoinGroup)
-* [Twitter/X](https://twitter.com/PepecoinNetwork)
+* [Twitter/X](https://x.com/pepecoins)
 
 
 ## Häufig gestellte Fragen ❓
